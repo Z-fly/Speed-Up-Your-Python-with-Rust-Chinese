@@ -3,7 +3,7 @@
 
 # Python高效编程——基于Rust语言
 
-<a href="https://www.packtpub.com/product/speed-up-your-python-with-rust/9781801811446?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://wqxuetang.oss-cn-beijing.aliyuncs.com/cover/3/243/3243404/3243404.jpg" alt="Speed Up Your Python with Rust " height="256px" align="right"></a>
+<a href="https://wqbook.wqxuetang.com/book/3243404"><img src="https://wqxuetang.oss-cn-beijing.aliyuncs.com/cover/3/243/3243404/3243404.jpg" alt="Speed Up Your Python with Rust " height="256px" align="right"></a>
 
 这是[Python高效编程——基于Rust语言](http://www.tup.tsinghua.edu.cn/booksCenter/book_09955101.html)的存储库，由我发布。
 
@@ -13,19 +13,16 @@
 Rust是一门令人兴奋的新语言。它为开发人员提供了没有垃圾收集机制的内存安全，从而带来了快速的运行和低内存占用。但是，用Rust重写一切可能是昂贵和有风险的，因为Rust中可能没有对要解决的问题的包支持。这就是Python绑定和pip的用武之地。本书将使开发人员能够用Rust编写可以使用pip安装的模块，这样就能够在需要的时候注入Rust，而不需要承担重写整个系统的风险和工作量。这种方法使开发人员能够在Python项目中尝试和使用Rust。
 
 本书涵盖了以下令人兴奋的功能：
-* 探索 Python 开发人员在 Rust 中编码时需要理解的 Rust 编程语言的怪癖
-* 了解多处理和线程安全的权衡编写并发代码
-* 使用 Cargo 和 crate 构建和管理软件项目
-* 将 Rust 代码与 Python 融合，以便 Python 可以导入和运行 Rust 代码
-* 在 Docker 中部署使用私有 Rust pip 模块的 Python Flask 应用程序
-* 检查并创建您自己的应用程序Rust 中的 Python 对象
+* 探索Rust编程语言的特性，这些特性是Python开发者需要理解的，以便在Rust中编码
+* 理解多进程和线程安全的权衡，以编写并发代码
+* 使用cargo和crates构建和管理软件项目
+* 将Rust代码与Python融合，使Python能够导入并运行Rust代码
+* 在Docker中部署一个利用私有Rust pip模块的Python Flask应用程序
+* 在Rust中检查并创建您自己的Python对象
 
 
 
-如果您觉得这本书适合您，请立即获取您的[副本](http://www.tup.tsinghua.edu.cn/booksCenter/book_09955101.html)！
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a> 
+如果您觉得这本书适合您，请立即[购买](http://www.tup.tsinghua.edu.cn/booksCenter/book_09955101.html)！
 
 ## 说明和导航
 所有代码都组织到文件夹中。例如，第 02 章。
